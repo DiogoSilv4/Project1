@@ -1,0 +1,39 @@
+{
+    "substance":[
+    {
+        "drug": "Alcohol",
+        "consumers1": 245000000,
+        "consumers2": 300500000,
+        "overdoses1": 2667932,
+        "overdoses2": 2842854
+    },
+     {
+        "drug": "Heroin",
+        "consumers1": 8676800,
+        "consumers2": 9473100,
+        "overdoses1": 5590000,
+        "overdoses2": 6000000
+    },
+     {
+         "drug": "Cocaine",
+        "consumers1": 14700000,
+        "consumers2": 20960000,
+        "overdoses1": 5890000,
+        "overdoses2": 7287000
+    },
+     {
+         "drug": "Opioids",
+        "consumers1": 37000000,
+        "consumers2": 60180000,
+        "overdoses1": 7488900,
+        "overdoses2": 10952000
+    },
+     {
+        "drug": "Cannabis",
+        "consumers1": 111239000,
+        "consumers2": 183000000,
+        "overdoses1": 0,
+        "overdoses2": 0
+    }
+]
+}

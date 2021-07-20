@@ -1,0 +1,4 @@
+Instructions: 
+
+- Click on each one of the images on the cheese slices of the main graphic to show the related information.
+- After that ,click anywhere else outside the circle to go back on the previous information.

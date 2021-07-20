@@ -1,0 +1,29 @@
+
+{
+"substance":[
+    {
+        "year": 2012,
+        "overdoses": 122103
+    },
+     {
+        "year": 2013,
+        "overdoses": 129359
+    },
+     {
+        "year": 2014,
+        "overdoses": 137888
+    },
+     {
+        "year": 2015,
+        "overdoses": 147614
+    },
+     {
+        "year": 2016,
+        "overdoses": 159690
+    }, 
+     {
+        "year": 2017,
+        "overdoses": 166612
+    }
+]
+}

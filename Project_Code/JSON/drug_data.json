@@ -1,0 +1,39 @@
+{
+    "substance":[
+    {
+        "drug": "Alcohol",
+        "physical_harm": 1.4,
+        "physical": 1.6,
+        "psychological": 1.9,
+        "pleasure": 2.3
+    },
+     {
+        "drug": "Heroin",
+        "physical_harm": 2.78,
+        "physical": 3,
+        "psychological": 3,
+        "pleasure": 3
+    },
+     {
+        "drug": "Cocaine",
+        "physical_harm": 2.33,
+        "physical": 1.3,
+        "psychological": 2.8,
+        "pleasure": 3
+    },
+     {
+        "drug": "Opioids",
+        "physical_harm": 1.63,
+        "physical": 1.8,
+        "psychological": 2.1,
+        "pleasure": 1.7
+    },
+     {
+        "drug": "Cannabis",
+        "physical_harm": 0.99,
+        "physical": 0.8,
+        "psychological": 1.7,
+        "pleasure": 1.9
+    }
+]
+}
